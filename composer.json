@@ -1,0 +1,22 @@
+{
+  "name": "it1024-me/phpanalysis",
+  "description": "适用于thinkphp6.0的分词扩展",
+  "keywords": ["thinkphp", "phpanalysis", "PHP分词"],
+  "license": "Apache-2.0",
+  "type": "think-extend",
+  "authors": [
+    {
+      "name": "it1024sucai",
+      "email": "it1024_mail@163.com",
+      "homepage": "https://github.com/it1024-me"
+    }
+  ],
+  "require": {
+    "php": ">=7.0.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "it1024sucai\\": "src/"
+    }
+  }
+}
